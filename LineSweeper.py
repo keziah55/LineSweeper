@@ -84,9 +84,7 @@ def path_exists(savefile):
 
 if __name__ == '__main__':
     
-    desc = __doc__
-    
-    parser = argparse.ArgumentParser(description=desc)
+    parser = argparse.ArgumentParser(description=__doc__)
     
     parser.add_argument('input', help='file to check')
     parser.add_argument('-is', '--insep', help='input file separator. '

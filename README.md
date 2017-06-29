@@ -59,7 +59,7 @@ and write to a tab-delimited file ``output.txt``, run the command
 
 
 If you want to be able to call LineSweeper from anywhere in your system, without having
-LineSweeper.py in the same directory as - or having long file paths to - the input, you
+LineSweeper.py in the same directory as &mdash; or having long file paths to &mdash; the input, you
 can put the command to call LineSweeper in a script (making sure your system PATH is set 
 accordingly).
 

@@ -1,6 +1,7 @@
 # LineSweeper
 
 (C) Keziah Milligan, 2017
+
 GPL v3. See LICENSE or https://www.gnu.org/licenses/gpl-3.0.en.html for full details.
 
 

@@ -66,8 +66,8 @@ accordingly).
 For example, in UNIX-based operating systems, this would be along the lines of:
 
     #!/bin/bash
-    $ python ~/path/to/LineSweeper.py "@*"
+    python ~/path/to/LineSweeper.py "@*"
 
 or in Windows:
 
-    > python C:\path\to\LineSweeper.py %*
+    python C:\path\to\LineSweeper.py %*

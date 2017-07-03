@@ -1,8 +1,8 @@
 # LineSweeper
 
-(C) Keziah Milligan, 2017
+Copyright (C) 2017, Keziah Milligan
 
-GPL v3. See LICENSE or https://www.gnu.org/licenses/gpl-3.0.en.html for full details.
+GPL v3. See LICENSE or https://www.gnu.org/licenses/ for full details.
 
 
 ## What is it?
